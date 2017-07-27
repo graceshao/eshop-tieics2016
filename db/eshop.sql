@@ -132,7 +132,7 @@ SELECT * FROM login;
 -- Category table
 -- ----------------------------------------
 
-CREATE TABLE category
+  CREATE TABLE category
 (
 	id				INT				AUTO_INCREMENT,
 	name			VARCHAR(20)		NOT NULL,
